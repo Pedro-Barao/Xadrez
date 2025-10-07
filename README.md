@@ -26,3 +26,4 @@
 
 **Guilherme Cortez**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme2006-br&show_icons=true&theme=gotham)
